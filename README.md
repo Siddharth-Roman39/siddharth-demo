@@ -1,4 +1,4 @@
 # siddharth-demo
 This is my Git Repository.
 <br>
-Author - Siddharth Roman
+Author - Siddharth Roman (VIT)
